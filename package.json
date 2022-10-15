@@ -2,7 +2,7 @@
   "name": "dark-turtle",
   "displayName": "dark-turtle",
   "description": "",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.72.0"
   },
@@ -12,7 +12,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Adrián Benítez",
+        "label": "dark-turtle",
         "uiTheme": "vs-dark",
         "path": "./themes/Adrián Benítez-color-theme.json"
       }
