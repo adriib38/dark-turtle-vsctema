@@ -1,0 +1,32 @@
+{
+  "name": "dark-turtle",
+  "displayName": "dark-turtle",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Adrián Benítez",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Adrián Benítez-color-theme.json"
+      }
+    ]
+  },
+  "icon": "turtle.png",
+  "author": {
+    "name": "Adrián Benítez",
+    "email": "adrianbenitezb7@gmail.com",
+    "url": "adrianbenitez.vercel.app/"
+  },
+  "repository": {
+    "url": "https://github.com/adriib38/dark-turtle-vsctema.git",
+    "type": "git"
+  },
+  "publisher": "dark-turtle"
+}
