@@ -3,7 +3,7 @@
 
 Vscode theme designed to be beautiful and practical.
 
-[![version](https://img.shields.io/badge/Visual_Studio_Marketplace-0.0.5-green.svg)](https://marketplace.visualstudio.com/items?itemName=AdrianBenitez.dark-turtle)
+[![version](https://img.shields.io/badge/Visual_Studio_Marketplace-0.0.2-green.svg)](https://marketplace.visualstudio.com/items?itemName=AdrianBenitez.dark-turtle)
 ## Color Reference
 
 | Color             | Hex                                                                |
