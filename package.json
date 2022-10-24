@@ -1,8 +1,8 @@
 {
-  "name": "DarkTurtle",
-  "displayName": "dark_turtle",
+  "name": "dark-turtle",
+  "displayName": "dark-turtle",
   "description": "",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.72.0"
   },
@@ -28,5 +28,5 @@
     "url": "https://github.com/adriib38/dark-turtle-vsctema.git",
     "type": "git"
   },
-  "publisher": "AdrianBenitez"
+  "publisher": "Adrián Benítez"
 }
